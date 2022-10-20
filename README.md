@@ -1,4 +1,4 @@
-# Analise-de-dados-Python
+# Analise-Dados-IndiceChurn-Python
 Projeto de análise de dados, verificando índice de Churn em uma empresa.
 
 O projeto apresenta o histórico dos clientes dos últimos anos, onde mais de 26% dos clientes que entraram na empresa, cancelaram o contrato.
